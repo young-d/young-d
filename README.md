@@ -1,4 +1,4 @@
-🌱 ```I’m currently learning to become a developer.!```
+🌱 ```I’m currently learning to become a nice developer!```
 </br>
 </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-d&count_private=true&show_icons=true&custom_title=Github_State&bg_color=efebe9&title_color=ff8f00&icon_color=8bc34a&text_color=616161&border_color=efebe9)](https://github.com/anuraghazra/github-readme-stats)
